@@ -1,0 +1,7 @@
+
+dist
+node_modules
+
+# code editor
+.idea
+
